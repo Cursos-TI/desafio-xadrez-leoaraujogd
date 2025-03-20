@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "XADREZ-NOVATO.C": "cpp"
+        "XADREZ-NOVATO.C": "cpp",
+        "XADREZ-AVENTUREIRO.C": "cpp"
     }
 }
